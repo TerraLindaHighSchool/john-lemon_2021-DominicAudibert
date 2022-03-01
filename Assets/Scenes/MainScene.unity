@@ -398,7 +398,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 141501971}
   m_LocalRotation: {x: 0.6662992, y: 0.00000007372362, z: 0.00000012862682, w: 0.7456845}
-  m_LocalPosition: {x: -12.9, y: 0.77, z: 1.31}
+  m_LocalPosition: {x: -12.9, y: 0.765, z: 3.319}
   m_LocalScale: {x: 5, y: 5, z: 5}
   m_Children: []
   m_Father: {fileID: 176985426}
@@ -2775,6 +2775,11 @@ PrefabInstance:
       propertyPath: waypoints.Array.data[1]
       value: 
       objectReference: {fileID: 1621696774}
+    - target: {fileID: 3046399464521835166, guid: abeb186619cc7e6419cb81e1e4dfa162,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 438c788c12232f641a56c43391fc9866, type: 2}
     - target: {fileID: 4257817316179491928, guid: abeb186619cc7e6419cb81e1e4dfa162,
         type: 3}
       propertyPath: player
